@@ -21,7 +21,7 @@ The designs were created to the following widths:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://frontendparham.github.io/Stats-Preview-Card/)
+- Live Site URL: [GitHub Pages](https://frontendparham.github.io/3-Column-Preview-Card/)
 
 ## My process
 
